@@ -19,7 +19,7 @@
   "devDependencies":      {},
   "optionalDependencies": {},
   "engines": {
-    "node":               "*"
+    "node":               ">= 4"
   },
   "keywords":             ["passdock", "passbook", "api"],
   "license": {
